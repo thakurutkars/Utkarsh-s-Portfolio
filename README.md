@@ -1,5 +1,4 @@
-# Utkarsh-s-Portfolio
-Analytics Portfolio
+#Data Analytics Project 1
 
 
 # 🍕 Pizza Sales Dashboard
